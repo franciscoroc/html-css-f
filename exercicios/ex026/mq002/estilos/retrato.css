@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* aparelho em pé */
+
+body {
+    background:url("../imagens/cev-portrait.jpg") no-repeat center bottom;
+    height: 160vh;
+}
+
+h1 {
+    color: #1ac09c;
+    text-shadow: 2px 2px 0px rgb(59, 59, 59);
+}
